@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=hey%2C+i'm+maciej+%F0%9F%91%BE;founder+%40+descry;crypto+security+researcher;backend+%2F+devops+engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=hey%2C+i'm+maciej+%F0%9F%91%BE;security+researcher;backend+%2F+devops+engineer)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=aniolowie&style=flat-square&color=00ff41&label=profile+views" alt="profile views" />
 
@@ -16,8 +16,8 @@ $ cat about.txt
   name     : Maciej Dmowski Halopeau
   role     : Backend Engineer · DevOps · Crypto Security
   location : Lyon, France 🇫🇷
-  company  : Descry — Crypto Security Platform
-  status   : [█████████░] building something wild
+  company  : open
+  status   : [█████████░] building something, anythi
 
 $ cat interests.txt
   - crypto security & on-chain threat detection
@@ -26,7 +26,7 @@ $ cat interests.txt
   - post-exploitation research & red teaming
 
 $ echo $CURRENT_MISSION
-> "secure the decentralized web, one exploit at a time."
+> "get stuff done."
 ```
 
 ---
